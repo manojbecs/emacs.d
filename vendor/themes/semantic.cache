@@ -1,0 +1,30 @@
+;; Object themes/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "themes/"
+  :tables (list 
+   (semanticdb-table "color-theme-hober2.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "color-theme-hober2.el"
+    )
+   (semanticdb-table "color-theme-gruber-darker.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "color-theme-gruber-darker.el"
+    )
+   (semanticdb-table "color-theme-tango.el"
+    :major-mode 'emacs-lisp-mode
+    :tags 'nil
+    :file "color-theme-tango.el"
+    )
+   (semanticdb-table "color-theme-subdued.el"
+    :major-mode 'emacs-lisp-mode
+    :tags '(("color-theme" include nil nil [873 895]) ("color-theme-subdued" function (:user-visible-flag t) nil [897 4896]) ("color-theme-subdued" package nil nil [4898 4928]))
+    :file "color-theme-subdued.el"
+    :pointmax 4929
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0pre4"
+  :semanticdb-version "2.0pre4"
+  )
